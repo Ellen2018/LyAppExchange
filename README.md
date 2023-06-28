@@ -1,0 +1,2 @@
+# Android App进程间通信解决方案
+利用Provider构建Binder通信
